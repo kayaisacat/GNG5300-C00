@@ -7,3 +7,7 @@ d = x**y
 e = x/y
 
 print(a,b,c,d,e)
+
+
+
+print(x,y)
