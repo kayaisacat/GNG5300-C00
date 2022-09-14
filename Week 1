@@ -8,6 +8,6 @@ e = x/y
 
 print(a,b,c,d,e)
 
-
-
-print(x,y)
+result1=a*b
+result2=a**c
+print(result1,result2)
